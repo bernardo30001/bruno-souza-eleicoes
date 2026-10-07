@@ -1,0 +1,1286 @@
+[
+  {
+    "file": "research/inputs/boletins-2026.json.gz",
+    "sha256": "3165ad224bfea3322364f6596c9d27f24ce79d2bf6de3c9e1a5c211cf046c72d"
+  },
+  {
+    "file": "research/inputs/cadastro-2012.json.gz",
+    "sha256": "2412f3dfb70ecbd9988084f1da5bb5a7159a9b344a75512f7605f130b9d73bca"
+  },
+  {
+    "file": "research/inputs/cadastro-2016.json.gz",
+    "sha256": "7c7078263b565aff45bb60c237d8b86a64099e62e64116d2975460e1e514fb27"
+  },
+  {
+    "file": "research/inputs/cadastro-2018.json.gz",
+    "sha256": "196ef02e36df27b7a268ecee2279501f5f9fd87ab8246f0ff83d27cb6ea1e7f1"
+  },
+  {
+    "file": "research/inputs/cadastro-2022.json.gz",
+    "sha256": "a24f4648856d864abcc5800603708f7d534545253b3e880985a74bc004b8cc8a"
+  },
+  {
+    "file": "research/inputs/candidaturas.json.gz",
+    "sha256": "755e3dc7089ca1e1aa65ae007d24d4237dc55b9ebcae7bc624430ccd7980b79a"
+  },
+  {
+    "file": "research/inputs/detalhes-2012.json.gz",
+    "sha256": "f465671da2b7c9994b14aca0d7ab7569c85ec8e68ffb0b67752fe052b6640a0f"
+  },
+  {
+    "file": "research/inputs/detalhes-2016.json.gz",
+    "sha256": "8c710800b8f4688d9213ffc81472f09db0fa1f58262af00ebfc4dd9be922f453"
+  },
+  {
+    "file": "research/inputs/detalhes-2018.json.gz",
+    "sha256": "2137c1309126e19acc6e15ba583d60864b867c7f5e53a02cddd0cbc53c400eb6"
+  },
+  {
+    "file": "research/inputs/detalhes-2022.json.gz",
+    "sha256": "f9bf48161a5c27e6c1f5104a49625646766806d65606922abd60fdf415640fad"
+  },
+  {
+    "file": "research/inputs/munzona-2012.json.gz",
+    "sha256": "61590fc4af66bfdda392e7570f6ed56125e7a9fde5e2173ccbf70f3385c362a2"
+  },
+  {
+    "file": "research/inputs/munzona-2016.json.gz",
+    "sha256": "7fd4e2a7609a2ddeafa9f7295fe8bfa2f71a5ad26ac305622e543b4aaa4008cb"
+  },
+  {
+    "file": "research/inputs/munzona-2018.json.gz",
+    "sha256": "77d2d7ef5b967d65c07d98eaad85c7b9473905b495fdef418f1c44239f4a45e8"
+  },
+  {
+    "file": "research/inputs/munzona-2022.json.gz",
+    "sha256": "d6e4150912d40abe7417710370c6d5214fc4139520dee1bbabf6f26fdcac8e59"
+  },
+  {
+    "file": "research/inputs/partidos-2012.json.gz",
+    "sha256": "9fae27b655dc6134fc724c2438b7af12fe607ed9778e52d93084d57377194cff"
+  },
+  {
+    "file": "research/inputs/partidos-2016.json.gz",
+    "sha256": "933532a3d394a1fa65a84b1c1e011933f297e40079557401795196860a73206d"
+  },
+  {
+    "file": "research/inputs/partidos-2018.json.gz",
+    "sha256": "d2d6982b0dd25e8771d0a5f2ca38c5a8efb6e2bf43934f5fd395f70b3ceae628"
+  },
+  {
+    "file": "research/inputs/partidos-2022.json.gz",
+    "sha256": "fed08d942372b96d389df1786921011756ba4525718958722496395915a1232e"
+  },
+  {
+    "file": "research/inputs/status-2012.json.gz",
+    "sha256": "c262581fc611fcf6173c5835514ae1c32443b411611b2d57e7b6f7fe642ba152"
+  },
+  {
+    "file": "research/inputs/status-2016.json.gz",
+    "sha256": "4a5ff74e2e235b6defcfc0fca8baf188a8ad6b3bee343d87a32a3e9381063e14"
+  },
+  {
+    "file": "research/inputs/status-2018.json.gz",
+    "sha256": "54e0047ba2555f5d2dd05d9cbfd281daf30fe4c37117cdaa6f50c7925a53ee58"
+  },
+  {
+    "file": "research/inputs/status-2022.json.gz",
+    "sha256": "46a6f8871837c15200992e6593385aa4e393fdf87722e3e8a63512dffb4dd887"
+  },
+  {
+    "file": "research/inputs/votos-secao-2012.json.gz",
+    "sha256": "2cdaf6491b51c93417ec5a72f0181f760db3cae17f505657dca70745af7f22a8"
+  },
+  {
+    "file": "research/inputs/votos-secao-2016.json.gz",
+    "sha256": "3de4b4ddb31339a1614d05de9152b609f45c61e81af1b56c48a8322fb6bfa9d4"
+  },
+  {
+    "file": "research/inputs/votos-secao-2018.json.gz",
+    "sha256": "6bdb60e50f291d14e0e38a811fac91241c84dcd763a8809bb133d4fc81bc2e24"
+  },
+  {
+    "file": "research/inputs/votos-secao-2022.json.gz",
+    "sha256": "45b2eb9a45e58e80a20159fc700bd6deb64dede1927b79c1463d9026108589de"
+  },
+  {
+    "file": "research/2026-municipios/80004.json.gz",
+    "sha256": "e50fc7556b28ab5e17cda68866c25f1afb5b00601bf490da05393a37a75db7bd"
+  },
+  {
+    "file": "research/2026-municipios/80012.json.gz",
+    "sha256": "d9b07c330d7fae1340f5927f6e9b56bab4081083c5e195a71fa75bc0cc471656"
+  },
+  {
+    "file": "research/2026-municipios/80020.json.gz",
+    "sha256": "4d5653758cd9660107d00c34f4525b91a70ffb56f4e5d7dc138aa66e1a7dcafa"
+  },
+  {
+    "file": "research/2026-municipios/80039.json.gz",
+    "sha256": "4516dc60f702058b5af12bf7c0af2cac3ced64d271aa9a03e0d5bd86a8eafb90"
+  },
+  {
+    "file": "research/2026-municipios/80047.json.gz",
+    "sha256": "c4f40a70765402205e37f976cfd8215fca2c9a061f07750d6d119902a276c2aa"
+  },
+  {
+    "file": "research/2026-municipios/80055.json.gz",
+    "sha256": "922394aa09abd8dc1f80c08b990c3b7b962e862456697b0f13f1cac873c4af6e"
+  },
+  {
+    "file": "research/2026-municipios/80063.json.gz",
+    "sha256": "3f4dc54cc4019b8c63775c47ae1a4a78bfb0de49b7d0178b29e5328d9c20934f"
+  },
+  {
+    "file": "research/2026-municipios/80071.json.gz",
+    "sha256": "1932fb65de7e9733d4d3aa60df876d892a4d79f115244f5d78ff19fda1716cc0"
+  },
+  {
+    "file": "research/2026-municipios/80080.json.gz",
+    "sha256": "9598df15c24278ed851a65537c77c0258bf68c5a0661ea22434ecf4893b82826"
+  },
+  {
+    "file": "research/2026-municipios/80098.json.gz",
+    "sha256": "df75cfe0869ff43673c88fd34bf0b0f8aea1ed2985ceaa1e7ccf9da1b6aab6d8"
+  },
+  {
+    "file": "research/2026-municipios/80101.json.gz",
+    "sha256": "38b169713b4079194d522a0061f33883b74ce08545d8a95d14927679c637d663"
+  },
+  {
+    "file": "research/2026-municipios/80110.json.gz",
+    "sha256": "6e3fe1cd509c1a605f4274f2065618d3cfe01baf76cc0986ddbe258ae2ce5b36"
+  },
+  {
+    "file": "research/2026-municipios/80128.json.gz",
+    "sha256": "6c29fab0cd145ecc598c9dc20fcba0a5dc583ae554bab55b140894f1a7093272"
+  },
+  {
+    "file": "research/2026-municipios/80136.json.gz",
+    "sha256": "e84f8da1be6e51642af80a9c0ec2ae4c59809e3011bbcd4dc1ee3cc523a20554"
+  },
+  {
+    "file": "research/2026-municipios/80144.json.gz",
+    "sha256": "c8d294540a814439ba84278be008f6fc89719b64f8fb0b7bb6f8d46aeb980b1b"
+  },
+  {
+    "file": "research/2026-municipios/80152.json.gz",
+    "sha256": "fbaa6fa4e4faec447b161fc1840d04a8d681e15003191ebd56680b3b75a08f68"
+  },
+  {
+    "file": "research/2026-municipios/80160.json.gz",
+    "sha256": "3cd7d814f2b725a8a8e39ad32ee266e77000344c1492a40e59cc5140d4f43d76"
+  },
+  {
+    "file": "research/2026-municipios/80179.json.gz",
+    "sha256": "29972684c4416a47b4bf0e15d431718c7e2dc03285023ca7446642c0f675974b"
+  },
+  {
+    "file": "research/2026-municipios/80187.json.gz",
+    "sha256": "c33945b14d10411b16716f07b63f17468563ce5cbda6a4032674032d8b4f39b9"
+  },
+  {
+    "file": "research/2026-municipios/80195.json.gz",
+    "sha256": "5718fa9bc86f78d75f694deb0100cebf2e9a71394e15349435d887aa4b3f66f8"
+  },
+  {
+    "file": "research/2026-municipios/80209.json.gz",
+    "sha256": "3675ccb590e437fb9a7da4d4566c88b02d35bb935e81967a211197f75d0aeaba"
+  },
+  {
+    "file": "research/2026-municipios/80217.json.gz",
+    "sha256": "728140909172831c65d4fe72f51b397ae5009ac674bb2cc47fa1be680bd3b5a6"
+  },
+  {
+    "file": "research/2026-municipios/80225.json.gz",
+    "sha256": "0c48c64afb854a993c7b6eb2a8607cf494eca336b875c516f9fa024ab79c4f10"
+  },
+  {
+    "file": "research/2026-municipios/80233.json.gz",
+    "sha256": "418e88a20c930044ae80beca22379711277e57699bc9463ab9b9dfe3ed8aca17"
+  },
+  {
+    "file": "research/2026-municipios/80241.json.gz",
+    "sha256": "a102267ef694034a0d6ac9e2e612019065f7517217d118f58c3490691d8a02bd"
+  },
+  {
+    "file": "research/2026-municipios/80250.json.gz",
+    "sha256": "d06cd3dbc17a555546fbcf6742d49de10ec732f67638a173d41d3b32caad882a"
+  },
+  {
+    "file": "research/2026-municipios/80268.json.gz",
+    "sha256": "931c8e2db1485ec5c12857b70787db6ac112b7e926e604504ebadef7966ec559"
+  },
+  {
+    "file": "research/2026-municipios/80276.json.gz",
+    "sha256": "a1c8a89376a2ff00aca1a527b7132214da42c59a2e828d264c7804568cc8f488"
+  },
+  {
+    "file": "research/2026-municipios/80284.json.gz",
+    "sha256": "5dd277875ea5daf430cfb3351c97391d3e22da2dd8ea62126c1684855d48e118"
+  },
+  {
+    "file": "research/2026-municipios/80292.json.gz",
+    "sha256": "1ce6948a12347e5208a75bc2c201e9528b9e190adce42581a8c93f500e3ef290"
+  },
+  {
+    "file": "research/2026-municipios/80306.json.gz",
+    "sha256": "a69bb4f60f923d6626483c5a0167e713cd3faaa6adcd96614e2fbcebe1d28cc4"
+  },
+  {
+    "file": "research/2026-municipios/80314.json.gz",
+    "sha256": "a5c2ef3143f536304db5c2fc16e5ad75fc155f05d8677ac38f77d8aa64501cec"
+  },
+  {
+    "file": "research/2026-municipios/80322.json.gz",
+    "sha256": "b165100197f29fd2608f4b1352e853ac42a0ed0003e86571645a688c5dc173fe"
+  },
+  {
+    "file": "research/2026-municipios/80330.json.gz",
+    "sha256": "f5023b3d545dcb141693a76f9ad68f5a3852ba6110dcfb6acdb44c28e813d164"
+  },
+  {
+    "file": "research/2026-municipios/80349.json.gz",
+    "sha256": "56007a6bf611ff0b0f34ed93d5e0b1e1166f7d68d8bbdc2a69a78f0ee632cf08"
+  },
+  {
+    "file": "research/2026-municipios/80357.json.gz",
+    "sha256": "9685f527fa7ede35b3f442bc790201a77aed42b90d5b1dc5c96c29380dcfc285"
+  },
+  {
+    "file": "research/2026-municipios/80365.json.gz",
+    "sha256": "206a88665b3e5157a33dc07e3d8a386ff8854c3d163fcad4da44df7acd88abb7"
+  },
+  {
+    "file": "research/2026-municipios/80373.json.gz",
+    "sha256": "96d47db40e37b502e4dd97238b24ea7e5b88a1b973e9015e6c5ea4b419fe22a9"
+  },
+  {
+    "file": "research/2026-municipios/80381.json.gz",
+    "sha256": "d848466ccb9ac39707cf55110d5318f5d7638f75b44663cc477bc0afc394dad9"
+  },
+  {
+    "file": "research/2026-municipios/80390.json.gz",
+    "sha256": "959ab628b7c2347e88e1771b752ebf3d53e1bde96968850d20b82e27cd87d780"
+  },
+  {
+    "file": "research/2026-municipios/80403.json.gz",
+    "sha256": "976460b8b1e4c6d8280f19f8f78b2b4c22f4ed83c16c787b17c802797426e26b"
+  },
+  {
+    "file": "research/2026-municipios/80411.json.gz",
+    "sha256": "fe2bd2c073173eddf0bc1a08ce3e139acafb1ae982e7038aefbbf0794e14646b"
+  },
+  {
+    "file": "research/2026-municipios/80420.json.gz",
+    "sha256": "9408f51930f52ccdd003534c55fa4c9d3159985efddb91f63d39d585baa6d253"
+  },
+  {
+    "file": "research/2026-municipios/80438.json.gz",
+    "sha256": "b12cefb91b2a97933ad4ce8d163774765d463603fe64e6abcae0f1700d7360fd"
+  },
+  {
+    "file": "research/2026-municipios/80446.json.gz",
+    "sha256": "989321250dd6011d799d2e1253b75e349ba60c8d0fbf836041b002408fc6422d"
+  },
+  {
+    "file": "research/2026-municipios/80454.json.gz",
+    "sha256": "bba9788946dac8100271618cfcd69db36fae2a683ff4710b214b702ed51c47da"
+  },
+  {
+    "file": "research/2026-municipios/80462.json.gz",
+    "sha256": "6a1d4263091ee424a71267f5303a84195f09707a6de980bc7a4f72862528973f"
+  },
+  {
+    "file": "research/2026-municipios/80470.json.gz",
+    "sha256": "8fa374ade28407a6e400966c971d444f03a39439d756d4a48d589b6cce6fab48"
+  },
+  {
+    "file": "research/2026-municipios/80489.json.gz",
+    "sha256": "21ec6ab94cf2731c05037cfb8c912bdfe25d0a3fa9e6af3fd1a69a8f53b5e805"
+  },
+  {
+    "file": "research/2026-municipios/80497.json.gz",
+    "sha256": "a8cf3026448f1e8b0bac7ae20736de5e5a56c9eecab8ad37a40db2c7df2baa1e"
+  },
+  {
+    "file": "research/2026-municipios/80500.json.gz",
+    "sha256": "bf6858af47ee4a80d9f2daf31cea234655a49f86f03510fd5eeec9ea9aed50d8"
+  },
+  {
+    "file": "research/2026-municipios/80519.json.gz",
+    "sha256": "2a17aa1ec825c19c6fa1e559a3b4f5b2fa911877777c9a6adcf7a6f381b2c35b"
+  },
+  {
+    "file": "research/2026-municipios/80527.json.gz",
+    "sha256": "64d61b6ff38f31f75f38c9ffcbf4c62df376b4bee0cbee53893262f21c09bbbc"
+  },
+  {
+    "file": "research/2026-municipios/80535.json.gz",
+    "sha256": "8770aab3ca6b7b87f577e567bc82679e57d45d35cc73a4e40a73e755a26e0838"
+  },
+  {
+    "file": "research/2026-municipios/80543.json.gz",
+    "sha256": "1f395a5970cb80e36d63ff03dda0f57244ae57fd01034832297bdef6e7a49de2"
+  },
+  {
+    "file": "research/2026-municipios/80551.json.gz",
+    "sha256": "dad3794916243d04a0cb43fe62ea46b0828615bebc0aa8e32de8c4ea68934a2a"
+  },
+  {
+    "file": "research/2026-municipios/80560.json.gz",
+    "sha256": "1ec72f0001e2b81824749ef2f88dde99bb8ea9f6357a9e6ace695f077fa95776"
+  },
+  {
+    "file": "research/2026-municipios/80578.json.gz",
+    "sha256": "405373b88616611f3e55f917fb07ef674863adbf30d0f3f83ae99f07a72236a9"
+  },
+  {
+    "file": "research/2026-municipios/80586.json.gz",
+    "sha256": "c403eda80cc40ed085cefc9600ea2e426495e402f094db8434291ad5bf009dc6"
+  },
+  {
+    "file": "research/2026-municipios/80594.json.gz",
+    "sha256": "8b3e9848c0410f379643ced0afd0051354f133f8be57f3ce369be695b45c2433"
+  },
+  {
+    "file": "research/2026-municipios/80608.json.gz",
+    "sha256": "c5f3e2136073b0cdfbf8da342abf7b3c75d8a9e7b5b54530c919339b0fbd0470"
+  },
+  {
+    "file": "research/2026-municipios/80616.json.gz",
+    "sha256": "efc11ab23c0226b2cfbca76ad1fabc7ed1528d7553cc312391f372c4f72255a8"
+  },
+  {
+    "file": "research/2026-municipios/80624.json.gz",
+    "sha256": "6b70a9c21840acc41ef352ba52ced1f8ab22c54b865fc91c282b2a8486e4a7f7"
+  },
+  {
+    "file": "research/2026-municipios/80632.json.gz",
+    "sha256": "d9e6892fec19574d4f7073ebc0c5d73a3da7712afc9672d6c3278282dfcbc344"
+  },
+  {
+    "file": "research/2026-municipios/80640.json.gz",
+    "sha256": "78ca7c1ac1e6a26ad14104b4caf0f4e27bf72cf66338d3457db734d9c2bfacac"
+  },
+  {
+    "file": "research/2026-municipios/80659.json.gz",
+    "sha256": "65c9e2e2321399dbf703709d3c9dc1e7a8aba6c593331ed61ea6e5ccbceeaa45"
+  },
+  {
+    "file": "research/2026-municipios/80667.json.gz",
+    "sha256": "cb73f865ea588ec0265c786971c2fdfc8287f4b8b70f094db91301e8e356b185"
+  },
+  {
+    "file": "research/2026-municipios/80675.json.gz",
+    "sha256": "e495d6f9f9c9dec231266d9d2f3849c3c58175851331ba84e7acbfd7814869f5"
+  },
+  {
+    "file": "research/2026-municipios/80683.json.gz",
+    "sha256": "8e127b72ce71701dde740f69994888f57067377ef836282c054e43bd6d0fa338"
+  },
+  {
+    "file": "research/2026-municipios/80691.json.gz",
+    "sha256": "0266e551471ed73bbf020a8248badbac38df6dac904481dfbc9a83ef9e07b6e6"
+  },
+  {
+    "file": "research/2026-municipios/80705.json.gz",
+    "sha256": "eb0fa079d543f68cff9aff63788b823ba867d773739eeaba79eecd88d45864ff"
+  },
+  {
+    "file": "research/2026-municipios/80713.json.gz",
+    "sha256": "35b82c5dd88f12bd0d80aa7cdec851d67c9d0b1808768cbb6e4ce8adbe0d4983"
+  },
+  {
+    "file": "research/2026-municipios/80721.json.gz",
+    "sha256": "5fa725391ece7f02da3293e7408f551c73266b12c8793492aea7bfbd575403d3"
+  },
+  {
+    "file": "research/2026-municipios/80730.json.gz",
+    "sha256": "695d4759b1ccb5efa3c3c8b2da1d535a25da0558789e7a9aeaa507cd7e376026"
+  },
+  {
+    "file": "research/2026-municipios/80748.json.gz",
+    "sha256": "0f8246674edbd00c540a5fcc8d90e3a44ee5bba9bd0b389cd30157c4b7a04cbc"
+  },
+  {
+    "file": "research/2026-municipios/80756.json.gz",
+    "sha256": "7902a11a93bd057de245735f051735b83aac45081daca8701277b384b7a02e95"
+  },
+  {
+    "file": "research/2026-municipios/80764.json.gz",
+    "sha256": "0505738fefe3ecb3d8001ab031ae43cb1fb3e6dc21587e0eec416c3158accf97"
+  },
+  {
+    "file": "research/2026-municipios/80772.json.gz",
+    "sha256": "5bafab1eb526c5ef2e0fd00cf3be353eff0249642c6f22bf23ce9bd2199668ea"
+  },
+  {
+    "file": "research/2026-municipios/80780.json.gz",
+    "sha256": "4bc6aa814089f0e9f06183fdce74bab6d6d658880b9591fab59e1a3c0f11f277"
+  },
+  {
+    "file": "research/2026-municipios/80799.json.gz",
+    "sha256": "d94988e2ad852e2f5be8ee1d8dc24369d5127a7fd8ff779dfb6baa24a72ae742"
+  },
+  {
+    "file": "research/2026-municipios/80802.json.gz",
+    "sha256": "3a7dd1906251e9dad5a3d6f35972a723e66f434b7bc2df98349a130a83579c13"
+  },
+  {
+    "file": "research/2026-municipios/80810.json.gz",
+    "sha256": "b8b284e23fed7543963822ee68258cbd63f4decceb8505ab9ed89bcb0841d846"
+  },
+  {
+    "file": "research/2026-municipios/80829.json.gz",
+    "sha256": "7f23d5faa7e0decb7ab59313b9c2ef3af2e8fbcd29403fa4ff2d8fb5b5add8a0"
+  },
+  {
+    "file": "research/2026-municipios/80837.json.gz",
+    "sha256": "6e4ee8039742987e093314b514ca5fdd6512e4ca93790e4f5fa64f5f760e8bcb"
+  },
+  {
+    "file": "research/2026-municipios/80845.json.gz",
+    "sha256": "8df763a66d8e2985f5359bce637ac674f03573e1d7b591c28b05859502df49f4"
+  },
+  {
+    "file": "research/2026-municipios/80853.json.gz",
+    "sha256": "0411c5f79a6a3caec79d0b2d055e4ed1f174649651c3bca6af525534c5ea2cc5"
+  },
+  {
+    "file": "research/2026-municipios/80861.json.gz",
+    "sha256": "a49a2348adc61ada88d696854092c9caf50be8b63ccc92d0517a4ff6ddeaa91c"
+  },
+  {
+    "file": "research/2026-municipios/80870.json.gz",
+    "sha256": "13343ce7c1c720333b1b6d83963b9263a1f35c1aa8e59c920bbd85b12fa7fe71"
+  },
+  {
+    "file": "research/2026-municipios/80888.json.gz",
+    "sha256": "33badb6a3c51c65cc8c756933ea04cffd8714aaf37fb2a4fe7933452564ba81a"
+  },
+  {
+    "file": "research/2026-municipios/80896.json.gz",
+    "sha256": "eabd5b90a6b0c636bf972027a662181e007d51f45cb45ffbd6a4e465282e2a3d"
+  },
+  {
+    "file": "research/2026-municipios/80900.json.gz",
+    "sha256": "ad966877f302db403ec78f43ebbbab57121d6cab36a06c2b3714ba444fe6361a"
+  },
+  {
+    "file": "research/2026-municipios/80918.json.gz",
+    "sha256": "d0eba798cef56bfdb33b4a8d0269909d18b5b07f07d2d65e3baf7ee64dec2cb7"
+  },
+  {
+    "file": "research/2026-municipios/80926.json.gz",
+    "sha256": "1f743c58d49a78925042e6b41b7a1be033ff466544a149928e9cae0b34467969"
+  },
+  {
+    "file": "research/2026-municipios/80934.json.gz",
+    "sha256": "89b48c00a8149875183f30ab9e09511f2e939b8104f56fc9f9b0a365865dc7df"
+  },
+  {
+    "file": "research/2026-municipios/80942.json.gz",
+    "sha256": "d56a3641b62bcd07ba7b38074379baa0ad3b2a7355947b49749cfcb2bc272c2a"
+  },
+  {
+    "file": "research/2026-municipios/80950.json.gz",
+    "sha256": "2867c8f5e720e6d70bf4f4bd161dfd6ea61811718a86ae863462fa3d12d63473"
+  },
+  {
+    "file": "research/2026-municipios/80969.json.gz",
+    "sha256": "0e6f21f87222e9da56aae1a1f0305b08d640a77b0a6baf064a86a9805eebae64"
+  },
+  {
+    "file": "research/2026-municipios/80977.json.gz",
+    "sha256": "1eb79d5a23b16643990a9926e530958bc727b2f6065f1feea0ab8881c9cc3030"
+  },
+  {
+    "file": "research/2026-municipios/80985.json.gz",
+    "sha256": "b0493672dff687cd581404fa49b89cb84a1cdea6eabda7a0a29e90912a131e87"
+  },
+  {
+    "file": "research/2026-municipios/80993.json.gz",
+    "sha256": "ec403ff46c57b5257f520aae72390bb718729ffcb333b1f0347a61952829ced8"
+  },
+  {
+    "file": "research/2026-municipios/81000.json.gz",
+    "sha256": "de74b8977178234b3ad5ed0339adbd0aad449b12a8117b0e636cad1a51430818"
+  },
+  {
+    "file": "research/2026-municipios/81019.json.gz",
+    "sha256": "9a7eccb4c71d0f38bf782e939bfb247ba46cdc4be17b1a4b762a579261bc8b20"
+  },
+  {
+    "file": "research/2026-municipios/81027.json.gz",
+    "sha256": "809fd7be2d1944b4e5238a50723d28658546c047bfe20c28b23b7f7545c570e0"
+  },
+  {
+    "file": "research/2026-municipios/81035.json.gz",
+    "sha256": "a89b75dbef72ee8f6aaa6eb7e38d744c092b28cad5e68153f067c108be85ac4e"
+  },
+  {
+    "file": "research/2026-municipios/81043.json.gz",
+    "sha256": "99dc4b97ff5354d0af9f7bfcf07eedf7a8198612d906307f4211bbde04259e0e"
+  },
+  {
+    "file": "research/2026-municipios/81051.json.gz",
+    "sha256": "4076d480ac6482bb7f5b55f947fd067d76b47ed62738ecc2b36c226479f1e777"
+  },
+  {
+    "file": "research/2026-municipios/81060.json.gz",
+    "sha256": "a22796f7ec5e7327ac26789a4a978ea2723475bf0c75d1f45668c13be2113828"
+  },
+  {
+    "file": "research/2026-municipios/81078.json.gz",
+    "sha256": "09b274165f737b53ff5bda9bb2e115e73ae6aa946350cf7fd1c28d69d0d85fdd"
+  },
+  {
+    "file": "research/2026-municipios/81086.json.gz",
+    "sha256": "946a39d51f2df3211c6a731d169950eea6b2a2bb72ba02edb6eb73ef7d62855f"
+  },
+  {
+    "file": "research/2026-municipios/81094.json.gz",
+    "sha256": "a3edad08e43de98818917af2ff7322956c22ac3c573c6e96c0a34530092693e3"
+  },
+  {
+    "file": "research/2026-municipios/81108.json.gz",
+    "sha256": "bbc67c7c9d857c5754f22311e9efc035c18f5bf29895fa083f4581470616c912"
+  },
+  {
+    "file": "research/2026-municipios/81116.json.gz",
+    "sha256": "00b4bbc825c14838f2c29a71fd7ce3dfe61417285f23202abb6bb4043dfc65b7"
+  },
+  {
+    "file": "research/2026-municipios/81124.json.gz",
+    "sha256": "d4c9ec09585d0deba90419cfe7e0304ca30d1fcbf97dc5db1a4bd0b34db9a3ce"
+  },
+  {
+    "file": "research/2026-municipios/81132.json.gz",
+    "sha256": "6ca06f67a227f0cba2e2a6bb51cae12a1310a1db9235ceb95c87c92d2b25dd31"
+  },
+  {
+    "file": "research/2026-municipios/81140.json.gz",
+    "sha256": "7bb65ae8e71114ff6f7097cb2ba3f11cea39fa89899dde4d0f5afabc1a9bef97"
+  },
+  {
+    "file": "research/2026-municipios/81159.json.gz",
+    "sha256": "202781ff20535df3ee9b03aae4a8293dadd5b3f9a1d421668d4f6d7a43acfde6"
+  },
+  {
+    "file": "research/2026-municipios/81167.json.gz",
+    "sha256": "61ff01181199441ea3034f756272038fe54b414666fe82feda828b82d87b0204"
+  },
+  {
+    "file": "research/2026-municipios/81175.json.gz",
+    "sha256": "387a4ce8eeaae8015caabdf47ebdb7b0d755ad3dc1fd312a9a0977943e69441a"
+  },
+  {
+    "file": "research/2026-municipios/81183.json.gz",
+    "sha256": "d2f15db7cc5c6de178459bf8355339000362764b3d8a7761ab5eb0498d71d0b2"
+  },
+  {
+    "file": "research/2026-municipios/81191.json.gz",
+    "sha256": "a29576e74ecd80f6f0fa779f4d7bb944b04b788de096052865ffb4b2b448cea5"
+  },
+  {
+    "file": "research/2026-municipios/81205.json.gz",
+    "sha256": "210dfd554fa6383aeb91923206cdc071500dc650b0f73026f732633287145a8d"
+  },
+  {
+    "file": "research/2026-municipios/81213.json.gz",
+    "sha256": "bcb6f656905ae13d245b7911534f791992c2f4be13b658b3e092dedfe73477b9"
+  },
+  {
+    "file": "research/2026-municipios/81221.json.gz",
+    "sha256": "e65437991a732a89ae9069a8683738e75b653279f7cbb83273aadda786b9fc90"
+  },
+  {
+    "file": "research/2026-municipios/81230.json.gz",
+    "sha256": "56e9d44bfc121596ac96b6e6d8dda4ebca0ec331733fbacc936099535907c0d2"
+  },
+  {
+    "file": "research/2026-municipios/81248.json.gz",
+    "sha256": "f048fba52a3f19017178a3f8e9b3dd86ff528cab0e7e5d059416188ab888402a"
+  },
+  {
+    "file": "research/2026-municipios/81256.json.gz",
+    "sha256": "93e176789a585971864fb9560f7a3cc1051d1f6d35e64f254e7a4d8851efba9c"
+  },
+  {
+    "file": "research/2026-municipios/81264.json.gz",
+    "sha256": "eb0d82072a53cb65eabd12c630ea861e87a550a300515eec3b525e01ea19cb01"
+  },
+  {
+    "file": "research/2026-municipios/81272.json.gz",
+    "sha256": "71594eed392138534f31b5f6aaad1342ce78332990c20560c32a419357bd10e2"
+  },
+  {
+    "file": "research/2026-municipios/81280.json.gz",
+    "sha256": "83f581688621ea9e954049550293c8f9b0b1caf18fd1a716c1e9443d68e11ae9"
+  },
+  {
+    "file": "research/2026-municipios/81299.json.gz",
+    "sha256": "a92ba81675714c24d57362dbd32c23fa7069a561e1ee8d2c92b7882c7590dcea"
+  },
+  {
+    "file": "research/2026-municipios/81302.json.gz",
+    "sha256": "31b750d788b7e766cc40794a765f691406f21748d7d78b2a5a00b0ac245e368f"
+  },
+  {
+    "file": "research/2026-municipios/81310.json.gz",
+    "sha256": "6eb90f50674767a50ba9243cb7556cc2f572885b88492ce44fc8686d1e7b13c5"
+  },
+  {
+    "file": "research/2026-municipios/81329.json.gz",
+    "sha256": "f9cb89667fb1f84acdde59ec8b71751bb366c44c999fcac789b371312bd5e124"
+  },
+  {
+    "file": "research/2026-municipios/81337.json.gz",
+    "sha256": "0e67ab63bc3f3408ed5d070a4dca3bc047dc3631ddb94ebca1130496d8092eb7"
+  },
+  {
+    "file": "research/2026-municipios/81345.json.gz",
+    "sha256": "b5d05dafb8e66c48c1f758ac72edd6c63c7c8e97cb30bb40a0fad5dc14f7a983"
+  },
+  {
+    "file": "research/2026-municipios/81353.json.gz",
+    "sha256": "debd54134052e7404d5d55825d8a93c99d952f70d804585eff06c506279b5372"
+  },
+  {
+    "file": "research/2026-municipios/81361.json.gz",
+    "sha256": "e7fc9fd4d7e1568e2bc28ac0f5c7b5d11259b7bb9c71f0c31352b2771e6312c8"
+  },
+  {
+    "file": "research/2026-municipios/81370.json.gz",
+    "sha256": "aa408e7d966658604a2181bdeca82eb77c914139ff4a3a16cfaacc991ab9d309"
+  },
+  {
+    "file": "research/2026-municipios/81388.json.gz",
+    "sha256": "3e82b32b9e45704f8d28350f60a6aa57d34962da23119aa5f1dca83bbeb2d87e"
+  },
+  {
+    "file": "research/2026-municipios/81396.json.gz",
+    "sha256": "cc4cec1ee5962cdf73fe39eda50fa69f28f9d74bfe923e8fd67621acf67450bc"
+  },
+  {
+    "file": "research/2026-municipios/81400.json.gz",
+    "sha256": "12a9ebdc4e752111c129f8774fbd09a44e4cbc654344877b7c4582514d59f55d"
+  },
+  {
+    "file": "research/2026-municipios/81418.json.gz",
+    "sha256": "340ccf0533e21fa848432c3c630138af62163bd47d5f87a1f940a7e93761758a"
+  },
+  {
+    "file": "research/2026-municipios/81426.json.gz",
+    "sha256": "1ddbbef028c0e5e752e8a72901fbf242e7240fa77465badc428be836364f55e5"
+  },
+  {
+    "file": "research/2026-municipios/81434.json.gz",
+    "sha256": "009df93ba29b66d1473096e301dd954e71c54cd4dc3489db975fa8bda7ac2fac"
+  },
+  {
+    "file": "research/2026-municipios/81442.json.gz",
+    "sha256": "3fd76cfa4718adb2833750068b0aa8db0ded74ef723821b344ac285a1c340794"
+  },
+  {
+    "file": "research/2026-municipios/81450.json.gz",
+    "sha256": "28fc07d49d92e9bdbaf7c317ea9ccbca388ad56f224695a3234e25f985d66563"
+  },
+  {
+    "file": "research/2026-municipios/81469.json.gz",
+    "sha256": "3b121779ad51c31b4faf4632e8dc7f84a5e20a404daba8063d37364b5c5599f7"
+  },
+  {
+    "file": "research/2026-municipios/81477.json.gz",
+    "sha256": "860a7818add970714d61803fef3e8df11cb9c3f3c24b6a1082fce0678b8e47aa"
+  },
+  {
+    "file": "research/2026-municipios/81485.json.gz",
+    "sha256": "ac9daeae32723d1259921cb6d25a132c16e66c3eba96581034f7ef868416b57a"
+  },
+  {
+    "file": "research/2026-municipios/81493.json.gz",
+    "sha256": "1ff68b5b009cc57a6f8b57f642ff2c5cdf2a284e55bb7d7a17bbde815135770c"
+  },
+  {
+    "file": "research/2026-municipios/81507.json.gz",
+    "sha256": "aa5912296e2ab7016e64b81db2aa85a6c32487d84d17e35d5953aa81d8d83ebc"
+  },
+  {
+    "file": "research/2026-municipios/81515.json.gz",
+    "sha256": "0bca32c01e33881ae61ef4b0378b6ef8cd219793bdfd6f0e6a8bcfcabd184a21"
+  },
+  {
+    "file": "research/2026-municipios/81523.json.gz",
+    "sha256": "41452523c457f2e66ae9a92342c4e1abc0e93855409cfdb60296288dd17b7ef8"
+  },
+  {
+    "file": "research/2026-municipios/81531.json.gz",
+    "sha256": "b94dd3431507150ea53be2a2e939f36baf173521fd99c10dca43207f91e46e9f"
+  },
+  {
+    "file": "research/2026-municipios/81540.json.gz",
+    "sha256": "f5de001b828e5e1d86d00bae375c4ffa75da68c15987e99f665fc76eafe82489"
+  },
+  {
+    "file": "research/2026-municipios/81558.json.gz",
+    "sha256": "7e60b911d12a1ad642659354f5c3b31feb4af3b337e4ee7aeba119ce225255f3"
+  },
+  {
+    "file": "research/2026-municipios/81566.json.gz",
+    "sha256": "b01c296c2eb1e2c060486ef0cbb02a4417d26821792cf65884c556e962793fda"
+  },
+  {
+    "file": "research/2026-municipios/81574.json.gz",
+    "sha256": "df428f65701de85bdc83e3141e8df86a07e3b3c2759a3e6d72b9efd992ca6179"
+  },
+  {
+    "file": "research/2026-municipios/81582.json.gz",
+    "sha256": "80b6b1edc3460c3bfc26f0f4b1deaddb393d22f351e140b31de25677cde63faa"
+  },
+  {
+    "file": "research/2026-municipios/81590.json.gz",
+    "sha256": "5a2267ff6384cdba168029343945e56084d981cac8a06771e3a61c71be0be4be"
+  },
+  {
+    "file": "research/2026-municipios/81604.json.gz",
+    "sha256": "99247bdedb20d21a37a802dc28976939b9ba7c00e8b02f4f47fd7b87e8c86c74"
+  },
+  {
+    "file": "research/2026-municipios/81612.json.gz",
+    "sha256": "b165d6d0672bdd0f98165f1fb0c0935f44383e090bb4f5af7f7e28397e529347"
+  },
+  {
+    "file": "research/2026-municipios/81620.json.gz",
+    "sha256": "78aa996c293af7893942a0f9159d7f8c079924b95a264a1deb260159b840f9a5"
+  },
+  {
+    "file": "research/2026-municipios/81639.json.gz",
+    "sha256": "b888ab421fd90eece10cbf88261e2f48ccb51ddbafa6d6512ff0a8f0f897071c"
+  },
+  {
+    "file": "research/2026-municipios/81647.json.gz",
+    "sha256": "77a080f855dcf30a8ab13fd8b2f8882ccf9ed529e6dd3fa85790245eaedd515a"
+  },
+  {
+    "file": "research/2026-municipios/81655.json.gz",
+    "sha256": "e071b7583df2ba6d6f1b20a6d5ded6f30e6d064723035fa254f4dd1479bd5206"
+  },
+  {
+    "file": "research/2026-municipios/81663.json.gz",
+    "sha256": "3baf05fdf515ac2ba5736ab01ed71241df1569493896bc8410bece70543b9b84"
+  },
+  {
+    "file": "research/2026-municipios/81671.json.gz",
+    "sha256": "fe3567398883825963e809ff287f367262c790f97db4c1688b893e9804d9b8ec"
+  },
+  {
+    "file": "research/2026-municipios/81680.json.gz",
+    "sha256": "55b6ff1d8eeb03271d333fcaa2719ffcce5300cbe3933f7d28c57206943d3ffc"
+  },
+  {
+    "file": "research/2026-municipios/81698.json.gz",
+    "sha256": "e783a6ffe172ce1c91ed0e0b7f4ef3a7a332dff999af0e2b91f1df244c312324"
+  },
+  {
+    "file": "research/2026-municipios/81701.json.gz",
+    "sha256": "17e6e00d313451ba1ebd2b91c220363c429e113d134f6628b973ca3fa19f2803"
+  },
+  {
+    "file": "research/2026-municipios/81710.json.gz",
+    "sha256": "735c1284ace0a4576d2324aa560299090f510468a006448bf7a66b4072cc4c41"
+  },
+  {
+    "file": "research/2026-municipios/81728.json.gz",
+    "sha256": "82b32f74b8fd917d71501f72f591a9ecc1e6fb6da16b751da88e689f9f2068f5"
+  },
+  {
+    "file": "research/2026-municipios/81736.json.gz",
+    "sha256": "7590c34edb20bc8dd4cafeecd91c40571def9c759cda35c23de8be9d64d2e932"
+  },
+  {
+    "file": "research/2026-municipios/81744.json.gz",
+    "sha256": "c0acbd06180d7ce642d78eb5c14371497f183250d346af91c3a042dd221f89ac"
+  },
+  {
+    "file": "research/2026-municipios/81752.json.gz",
+    "sha256": "8d418bfebdeb0c4c8b1edd15e9624b0bfc23182208650a7a18afe0bc33fc8402"
+  },
+  {
+    "file": "research/2026-municipios/81760.json.gz",
+    "sha256": "c66fb437a194853e3771aab21a5fe566d17f94d81532ba6fb93a080c81c0110a"
+  },
+  {
+    "file": "research/2026-municipios/81779.json.gz",
+    "sha256": "c1a1a797f5d13a1fc1a0423631767463f71a586e070b198f5f295ae997c9b484"
+  },
+  {
+    "file": "research/2026-municipios/81787.json.gz",
+    "sha256": "6c7795c858b00402b2384379adedbb1e0998368d69954cc0c141ba4f209067d4"
+  },
+  {
+    "file": "research/2026-municipios/81795.json.gz",
+    "sha256": "4ca0861fceb3b11b6f86d3bfb0a6da5142f1e378d69b5bcfbbebce24e058ca37"
+  },
+  {
+    "file": "research/2026-municipios/81809.json.gz",
+    "sha256": "c8d551c9126a57c2a59c963e07f6fb638c6070134b2cdd2e6727308a17798243"
+  },
+  {
+    "file": "research/2026-municipios/81817.json.gz",
+    "sha256": "d071593d6a05d3758b62984eebd483f55cde812efc3f75237945dd64db210819"
+  },
+  {
+    "file": "research/2026-municipios/81825.json.gz",
+    "sha256": "f9e74b9c699a336f9d384f287387c05211cdd34935096d62edd9fc37b0141b86"
+  },
+  {
+    "file": "research/2026-municipios/81833.json.gz",
+    "sha256": "aac4a234a9ac5b9197174744553c358ccf4135305bcca7940cd68bfb13b312ac"
+  },
+  {
+    "file": "research/2026-municipios/81850.json.gz",
+    "sha256": "27a0fc7a7783de93e72919ed325e968fc21e98b8fe933687d6533df5cb750234"
+  },
+  {
+    "file": "research/2026-municipios/81876.json.gz",
+    "sha256": "18d8d2768ffc461b8737017f8a7b7b2b712205d296bb6aeea4076867123c01a6"
+  },
+  {
+    "file": "research/2026-municipios/81892.json.gz",
+    "sha256": "52c92121cdd36fd07db2c9f8a1e5203e970e2ea514e71f227cba1cc28c003d0e"
+  },
+  {
+    "file": "research/2026-municipios/81914.json.gz",
+    "sha256": "0114c7bb594af7f124c459824ba651d39bddbde17473d95867cc7a1b4f92c107"
+  },
+  {
+    "file": "research/2026-municipios/81930.json.gz",
+    "sha256": "61ee2a5c78072adf8c9a4e83e1533af72d3105fffb69868dcc53df1724f0fa5f"
+  },
+  {
+    "file": "research/2026-municipios/81957.json.gz",
+    "sha256": "45fea1c7e60f583f40ea243e16e6ff2ac1cde278959d07e4ecd07d3dec07fa0c"
+  },
+  {
+    "file": "research/2026-municipios/81973.json.gz",
+    "sha256": "3fa2e19fa911ed7142656845c75d14fa1cb9b011a3aab4db804ebf2615341ec2"
+  },
+  {
+    "file": "research/2026-municipios/81990.json.gz",
+    "sha256": "db36448e93f648cded382db11d716b28cea65627429422c59d3156f056ab5ecd"
+  },
+  {
+    "file": "research/2026-municipios/82015.json.gz",
+    "sha256": "71546d0fe300b1d7d0a5a236a73257021c6c50d19cc53f3529f620421d3ae501"
+  },
+  {
+    "file": "research/2026-municipios/82031.json.gz",
+    "sha256": "9f8f765ff6a6da3c42a8aef1275f203e1dca4650279a36c688776e3ac6ab507e"
+  },
+  {
+    "file": "research/2026-municipios/82058.json.gz",
+    "sha256": "3c448831c592239d534d23e7c08aa2436c0650b4b968cba9e533b8642d56b7a4"
+  },
+  {
+    "file": "research/2026-municipios/82066.json.gz",
+    "sha256": "4b463a258e266b34ff68024caa4fd07a8bdbd62c6d18d537af2c5518f67e7a2c"
+  },
+  {
+    "file": "research/2026-municipios/82074.json.gz",
+    "sha256": "86bffb64e11cffc1a06083c0b1b077a4f850d97bdb3352642a38146dda6c5189"
+  },
+  {
+    "file": "research/2026-municipios/82090.json.gz",
+    "sha256": "64f1eecca9feaea4ac52d754f98597196d20f3d714cabb0ae7aea62226ad920e"
+  },
+  {
+    "file": "research/2026-municipios/82112.json.gz",
+    "sha256": "ef18154fa33a064441fd5364326193b60535944b64b88081b73d41de63aa857b"
+  },
+  {
+    "file": "research/2026-municipios/82139.json.gz",
+    "sha256": "37b036992a8c81781f27c8564b8ec2579b89f6760c1f1267d3a8dc8165076763"
+  },
+  {
+    "file": "research/2026-municipios/82155.json.gz",
+    "sha256": "0d5812dbeab8588e835589833b8b31adb29a1e5a0929c0c2e01e67c9ab29332e"
+  },
+  {
+    "file": "research/2026-municipios/82171.json.gz",
+    "sha256": "c3a8eb6b2f76cfa3780555331c9dc4b41f9de091a063110a36d04a91f87f2a5d"
+  },
+  {
+    "file": "research/2026-municipios/82198.json.gz",
+    "sha256": "ec433b72090b208002ffa6c8684e8fa4162772915a059c33713ab3c12120fd7c"
+  },
+  {
+    "file": "research/2026-municipios/82210.json.gz",
+    "sha256": "b107b02ece94d05d0ec9d2d17fa2788ad6c866452f7b1584c8f868ef52d239d7"
+  },
+  {
+    "file": "research/2026-municipios/82236.json.gz",
+    "sha256": "4161ae726305ba973cbea5e2592d55afd60abca857f70aee4c132582253a955a"
+  },
+  {
+    "file": "research/2026-municipios/82252.json.gz",
+    "sha256": "1c62838f00a50547af8d7e286c9c77c7fe608d9631525f014cc5b5d2675a864f"
+  },
+  {
+    "file": "research/2026-municipios/82279.json.gz",
+    "sha256": "3bba0742a92e3693c5d05e2398de32a248acafed8f51b8fa13e319b93f710d6d"
+  },
+  {
+    "file": "research/2026-municipios/82295.json.gz",
+    "sha256": "6daca5e7f0d9cfb65f0ceadbb6850e8ad8acaf7bbe22c1c0e2622b598a6065f2"
+  },
+  {
+    "file": "research/2026-municipios/82317.json.gz",
+    "sha256": "977c87aeed159469fb8f43554b7d0a286b17ec6cd1e2139355957cddb68dc1f3"
+  },
+  {
+    "file": "research/2026-municipios/82333.json.gz",
+    "sha256": "34ed921c1240633d7cf44e4f070da29d0aca35d033fd571202829017d2a2bd3f"
+  },
+  {
+    "file": "research/2026-municipios/82350.json.gz",
+    "sha256": "77be026afa15f15f2ca38e5bfa5f84c7aa402192ae4a4a754797e43db2aa2ea6"
+  },
+  {
+    "file": "research/2026-municipios/82376.json.gz",
+    "sha256": "bd74507e6bd597dc25e1b7cab2f1c68d036aa7ca7eb4e6c9a75ff69d5fcb6c03"
+  },
+  {
+    "file": "research/2026-municipios/82392.json.gz",
+    "sha256": "8f0f011ab7107258cc9601df589765dd08b14e35133bf5209bff7d3d97e775ad"
+  },
+  {
+    "file": "research/2026-municipios/82414.json.gz",
+    "sha256": "4e99b343a65114286cce6731fccf85922d627c2ca6b82f680665160e1dd15e23"
+  },
+  {
+    "file": "research/2026-municipios/82430.json.gz",
+    "sha256": "f12b54c692108ef7522b480149e2b71fa5dbba6c4515a1c9d49f1ffcc16dffee"
+  },
+  {
+    "file": "research/2026-municipios/82457.json.gz",
+    "sha256": "6cdc6fd269a4a4cb26bc74769274042418418d88f89ae50e9aa9c7a606e04f00"
+  },
+  {
+    "file": "research/2026-municipios/82473.json.gz",
+    "sha256": "e501a2344464cbe772f4e8b1a3b589cf71db08e7b95b30949c8e934b688585c8"
+  },
+  {
+    "file": "research/2026-municipios/82490.json.gz",
+    "sha256": "9b17f024f6c185c9a43c0be96a578a6138830e9e554cd5f7319cda7f86e0b7ba"
+  },
+  {
+    "file": "research/2026-municipios/82511.json.gz",
+    "sha256": "aea7c3cb1c6da217e4bebc74681c9458b7f1e102e7dc1129ba80dbaf9d532cd1"
+  },
+  {
+    "file": "research/2026-municipios/82538.json.gz",
+    "sha256": "e3ee3e07ee242d7f9ecd4813abcd330b82c7dc807b7b6be170c15a611fc97e7b"
+  },
+  {
+    "file": "research/2026-municipios/82554.json.gz",
+    "sha256": "b3220136b5f2d6423bd2fee059d563f6ed2c5b4a391d69250831b5dfc1206a6f"
+  },
+  {
+    "file": "research/2026-municipios/82570.json.gz",
+    "sha256": "8a8235fde5b47d7139b92b783e30b4af05a6451e7ad6a5aebd46923ef59db34a"
+  },
+  {
+    "file": "research/2026-municipios/82597.json.gz",
+    "sha256": "facb8035c90af0def653f0352cd0900d67d736738261126912613172e3dde3ac"
+  },
+  {
+    "file": "research/2026-municipios/82619.json.gz",
+    "sha256": "f114600f3477e91437d5455cd83a772ba5b9db366917b694baef82a8d8b15a4f"
+  },
+  {
+    "file": "research/2026-municipios/82635.json.gz",
+    "sha256": "2fe85f91de888a637823dbdb560c61b1f3cc0095735df34609151d39bacb331e"
+  },
+  {
+    "file": "research/2026-municipios/82651.json.gz",
+    "sha256": "e2cdf529b962f758e539ad73bc13dad23199e9355daed1429c2d1086c7c57f00"
+  },
+  {
+    "file": "research/2026-municipios/82678.json.gz",
+    "sha256": "55d9720b305680bc41ca4edf168823a5440e6e2453acf18fabe94bdee8b2b4d4"
+  },
+  {
+    "file": "research/2026-municipios/82694.json.gz",
+    "sha256": "65aa9998e1360363369a469771149c1be6db24657676f3157edb20dd06b66432"
+  },
+  {
+    "file": "research/2026-municipios/82716.json.gz",
+    "sha256": "5e993d8aa1213f67dc9159401899021126680e32f275adb887e9cb178f259acb"
+  },
+  {
+    "file": "research/2026-municipios/82732.json.gz",
+    "sha256": "2379e3ad8416545bc159e067ad113276fc2b62def771ece24754f11d9f18b53a"
+  },
+  {
+    "file": "research/2026-municipios/82759.json.gz",
+    "sha256": "72470d4f89f3b6cfae778a371a3de1e03198389cbb2467978ab9f665db72c458"
+  },
+  {
+    "file": "research/2026-municipios/82775.json.gz",
+    "sha256": "023f9abf49f6c8020bd83bf3d169fed056549563a22232b632aa65db2628699e"
+  },
+  {
+    "file": "research/2026-municipios/82791.json.gz",
+    "sha256": "1e14493bd5be796c2e25c797dc51ef4da7b6866f26842bc0a953c98c803f90e1"
+  },
+  {
+    "file": "research/2026-municipios/82813.json.gz",
+    "sha256": "5ef9768691d0507ee7db4c60fd0f7daf565b0254e616e06e2436d98972d1a7e5"
+  },
+  {
+    "file": "research/2026-municipios/82830.json.gz",
+    "sha256": "65500154d06c3111132c64d22c4d8a53d607064a8a9a291985d58bc4064fb342"
+  },
+  {
+    "file": "research/2026-municipios/82856.json.gz",
+    "sha256": "53daea6ef03ffcc8e15b92159c2bc7903aa5c97377cd555154c493595330aa99"
+  },
+  {
+    "file": "research/2026-municipios/82872.json.gz",
+    "sha256": "1ef1eef0da0c6fe693657b4fde891adfbe5eedd4704278d2bc606fe2352627f1"
+  },
+  {
+    "file": "research/2026-municipios/82899.json.gz",
+    "sha256": "978b1a26d77316a1d686371af746ae6042a965f732610f96c721aa4a1774c568"
+  },
+  {
+    "file": "research/2026-municipios/82910.json.gz",
+    "sha256": "368aad0e2e98091495bb2608f736a97df685125404e4c03bd7228ba9b9d0c1dc"
+  },
+  {
+    "file": "research/2026-municipios/82937.json.gz",
+    "sha256": "fcd704352766fedbed075cbc24d004e3e7696c2980c2fafce6a71181a43a9b49"
+  },
+  {
+    "file": "research/2026-municipios/82953.json.gz",
+    "sha256": "6513913f70eda0d468d0573df0e6241f3c8b09add957916a59a9530573782395"
+  },
+  {
+    "file": "research/2026-municipios/82970.json.gz",
+    "sha256": "eed7aaa923b7577fe5921276712c5c41c875f6e0dc580f1a94343b43c72446f0"
+  },
+  {
+    "file": "research/2026-municipios/82996.json.gz",
+    "sha256": "0d6e53588081ccc53cd8928591f6b669d06aa9f973aca196e89b2d6022ca1afd"
+  },
+  {
+    "file": "research/2026-municipios/83011.json.gz",
+    "sha256": "1c8d8a30292eb7f934b3e3f4b23c2c9c3d3a7170345235371b96ad73aa6f7f1e"
+  },
+  {
+    "file": "research/2026-municipios/83038.json.gz",
+    "sha256": "08bd6e8eea0062f769cfb523c1144fc3e0afdde1b1a5e20aeb388de9cbf112cc"
+  },
+  {
+    "file": "research/2026-municipios/83054.json.gz",
+    "sha256": "14e74b8eaace37e7bbf895f84350eb3ac8ebed1a916fb3d09b1f2d6fa6732533"
+  },
+  {
+    "file": "research/2026-municipios/83070.json.gz",
+    "sha256": "56b2b622c6bd07dd80a39f1b9717479f712694e757f0ef21ccfeeff075d67d22"
+  },
+  {
+    "file": "research/2026-municipios/83097.json.gz",
+    "sha256": "21bbf7065d4bde5c1828f40a5995e8a332e17dd27891710cfead30d8fb562241"
+  },
+  {
+    "file": "research/2026-municipios/83119.json.gz",
+    "sha256": "ab8174eb9268e413341d5032682ad92bb70fbf90114fe6fc681df8849d8b6154"
+  },
+  {
+    "file": "research/2026-municipios/83135.json.gz",
+    "sha256": "8ae2ee8d6e927d371a4a4245597b13abd95d6ff62e185cf9354115b7ed565277"
+  },
+  {
+    "file": "research/2026-municipios/83151.json.gz",
+    "sha256": "ea8e4040c0474cd8004c7ecc4e3a159cfde6250e58385b8c6ba835c644574a99"
+  },
+  {
+    "file": "research/2026-municipios/83178.json.gz",
+    "sha256": "f6fd01df194d8332a85ba90876e973a6e3ea1f7759a359e60e8fdbb10458372e"
+  },
+  {
+    "file": "research/2026-municipios/83194.json.gz",
+    "sha256": "456d9ca01f792e3e270d25e1b6fc3f47a6243e342c68d245a9799fbc8bd9827e"
+  },
+  {
+    "file": "research/2026-municipios/83216.json.gz",
+    "sha256": "185b1f38feac27d2a67f47d8e9f49980c25331e15b8b14a93c5e1a30ddb9b31d"
+  },
+  {
+    "file": "research/2026-municipios/83232.json.gz",
+    "sha256": "935e7b77cce2aeb125941f2847b3732d868529f4350b6c96ad4f9b1c521ec3c4"
+  },
+  {
+    "file": "research/2026-municipios/83259.json.gz",
+    "sha256": "5427fb06a0d2cf31610d956e816fdbcf41b465292b54a69907a0907cbaeac1cc"
+  },
+  {
+    "file": "research/2026-municipios/83275.json.gz",
+    "sha256": "7f731b5c4be6c929e00067e395eb3ca6ea0cd01a079919dfc77ac29bfbbdc759"
+  },
+  {
+    "file": "research/2026-municipios/83291.json.gz",
+    "sha256": "d002bcac8cc2ed3925388190171a6a2911a721d9b59195706283d654c019ff28"
+  },
+  {
+    "file": "research/2026-municipios/83313.json.gz",
+    "sha256": "52dd59250d3ae6eae6d88b12ee01a0e11f836ba1721bac8c4a796a39d320e138"
+  },
+  {
+    "file": "research/2026-municipios/83330.json.gz",
+    "sha256": "cc13c1dfb037f24d5310d881bbca726b0fe7d9409b399cdffeb799ccbea6dbae"
+  },
+  {
+    "file": "research/2026-municipios/83356.json.gz",
+    "sha256": "2b2846c86b597b9f908f654939f77135472d0f59a0c878d3b14e0195ace2a7f5"
+  },
+  {
+    "file": "research/2026-municipios/83372.json.gz",
+    "sha256": "3ef0697d4750f91b385fb57116b2670a859edbe7684ea128f3a930bb6efdbc19"
+  },
+  {
+    "file": "research/2026-municipios/83399.json.gz",
+    "sha256": "06a928285bc8332a61e7481aa367ef2e7e3746fd71e895cfe125778184f80757"
+  },
+  {
+    "file": "research/2026-municipios/83410.json.gz",
+    "sha256": "2d6eab004eb4938966bf13ac6ee6779daada29de651098e5baa90b6964caf683"
+  },
+  {
+    "file": "research/2026-municipios/83437.json.gz",
+    "sha256": "89010d71406cc6cd0b9c2d2dcf30a1d0060d7ba5791f6d3eaea7e35d954eb832"
+  },
+  {
+    "file": "research/2026-municipios/83453.json.gz",
+    "sha256": "7e4040fa8de80af4d1fa5b4f474c9ca098ebb07f261b46503b97363aca51e9c9"
+  },
+  {
+    "file": "research/2026-municipios/83470.json.gz",
+    "sha256": "d4a043fb56c71bbc50801231911e706d8f8408e1bc8a5d1458732a768f9d98cc"
+  },
+  {
+    "file": "research/2026-municipios/83496.json.gz",
+    "sha256": "e4f4e96d049ad2e0a2eee0167279ef86a811b90c5ca849c5e214bef84bb0dce9"
+  },
+  {
+    "file": "research/2026-municipios/83518.json.gz",
+    "sha256": "586cb459d437978130ed5828e28d74d0b0b4e0f1e23a1172f4d0b07e5cd879ff"
+  },
+  {
+    "file": "research/2026-municipios/83534.json.gz",
+    "sha256": "84e52353ef3d40f7d678067770077cf75601d3861c777ac90023ba952a64a97e"
+  },
+  {
+    "file": "research/2026-municipios/83550.json.gz",
+    "sha256": "41dbcd4e080e4dcd29ade8a5a9ed3607be697d8fb9924486ba6d8238481de14e"
+  },
+  {
+    "file": "research/2026-municipios/83577.json.gz",
+    "sha256": "148afa4c0d0d8527660dc7802eceb6fd3360716d733b2b81f3d6e4ded39d7ba2"
+  },
+  {
+    "file": "research/2026-municipios/83593.json.gz",
+    "sha256": "21bef0f1cb16efcd06e1681f36110701eede19c4a958426679b6110acaf56923"
+  },
+  {
+    "file": "research/2026-municipios/83615.json.gz",
+    "sha256": "092090873b4fdc44fb8d7407fdb0d29145013f1f05679a4e7f190ce9f0b17132"
+  },
+  {
+    "file": "research/2026-municipios/83631.json.gz",
+    "sha256": "b48cac236ae17cd24da91b265f4a10c339d2d7081e550bdb96256dbc1762d3fe"
+  },
+  {
+    "file": "research/2026-municipios/83658.json.gz",
+    "sha256": "0946728ab1acbab2e8d09bfe17af90ab7db3b7bdeb85e125c7c070f04e927a4d"
+  },
+  {
+    "file": "research/2026-municipios/83674.json.gz",
+    "sha256": "f5253d426152f8abfecff9ce8a75f01b36c10b847139cde127641dac30c74662"
+  },
+  {
+    "file": "research/2026-municipios/83682.json.gz",
+    "sha256": "875167d800b950513db39431b77da19f10e219de7cc9613a3da2f98d1054edf1"
+  },
+  {
+    "file": "research/2026-municipios/83690.json.gz",
+    "sha256": "fbe6d771632aa81a21a87082543128c2cbda6b0a09f35caffd8ea54daa6ef569"
+  },
+  {
+    "file": "research/2026-municipios/83712.json.gz",
+    "sha256": "b77b15b26c22418a57d461d47026868b7608d00176015ca13a13beb8ac3f0ec9"
+  },
+  {
+    "file": "research/2026-municipios/83739.json.gz",
+    "sha256": "5a34e8eec4353ac98873898f75768ef2e1ed6cefd9f30cbfce34c52fe0a6bff2"
+  },
+  {
+    "file": "research/2026-municipios/83755.json.gz",
+    "sha256": "1bc9f54a5abf4ec7a7ef078c92fe819cf5a2256c17a057b025ba7935b59ed99c"
+  },
+  {
+    "file": "research/2026-municipios/83771.json.gz",
+    "sha256": "db71024aab11539bd65a7740fa1941d72acc34d06a0d5e529968953709bbfba8"
+  },
+  {
+    "file": "research/2026-municipios/83798.json.gz",
+    "sha256": "ce7d0966b70fa6c89ae2a71facdab6e45aceb15468fbc1262a9a79ce28e43591"
+  },
+  {
+    "file": "research/2026-municipios/83810.json.gz",
+    "sha256": "9253620f94f1473758aeae518d7eddf59fc6de9e98e7732a06256e8ead72a574"
+  },
+  {
+    "file": "research/2026-municipios/83836.json.gz",
+    "sha256": "a3590d543c6721a63e53e27238e99028664b7aeb9e6eecd628ad99a11023a3b5"
+  },
+  {
+    "file": "research/2026-municipios/83852.json.gz",
+    "sha256": "d8b9bf90d3e4b45e5a3769f292131dc29844f111320a56b55d8941183e8e41aa"
+  },
+  {
+    "file": "research/2026-municipios/83879.json.gz",
+    "sha256": "e383f65e3687e7263009115bf0a72c56fd3bef3ac4f3b268e78f9c5c2f335706"
+  },
+  {
+    "file": "research/2026-municipios/83895.json.gz",
+    "sha256": "70ac8b5ee927b941ef315d9f2660c4e4e838fdd2c4dd32105b89fffff889fcde"
+  },
+  {
+    "file": "research/2026-municipios/83909.json.gz",
+    "sha256": "169df306e7cb65d7d2b29c60f7c4db2da0812e9e34a8d95697e3ce9202f7b2b7"
+  },
+  {
+    "file": "research/2026-municipios/83917.json.gz",
+    "sha256": "90dfcf7a6ff938fe11ca59ab953d57d9a8a8e30b5f0f83f7353e88cfec5b7bd7"
+  },
+  {
+    "file": "research/2026-municipios/83925.json.gz",
+    "sha256": "7b738661c1a0d48e99d33f89ac287e132fb166a1651cfc7da718319e9855b7e7"
+  },
+  {
+    "file": "research/2026-municipios/83933.json.gz",
+    "sha256": "88470703e321b8679832aeaca99cd54ebc49ceba8878de641f4fc334d4ea1a62"
+  },
+  {
+    "file": "research/2026-municipios/83950.json.gz",
+    "sha256": "82959596e78b6c5fab58f9cafe16936eaad9e1cba7b6f8d0ea2dd04e9673d8d1"
+  },
+  {
+    "file": "research/2026-municipios/83976.json.gz",
+    "sha256": "821826b690b4e2f6218acb8febb06d49f0fea031432612b190e3dd172cd00540"
+  }
+]

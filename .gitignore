@@ -1,0 +1,9 @@
+research/*.csv
+research/*.curl
+research/*.zip
+research/2026-municipios/*.json
+__pycache__/
+*.pyc
+.DS_Store
+
+research/inputs/*.json

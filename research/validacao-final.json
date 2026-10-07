@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "checks": "unique keys, 295 IBGE joins, candidate totals, section/location/neighborhood reconciliation, verified denominators, 2026 turnout and vote types, CSV integrity",
+  "elections": [
+    {
+      "year": 2012,
+      "municipalities": 1,
+      "sections": 861,
+      "candidateVotes": 1491,
+      "cityVotes": 1491,
+      "classificationCoverage": 100.0,
+      "validNeighborhoodDenominators": false
+    },
+    {
+      "year": 2016,
+      "municipalities": 1,
+      "sections": 981,
+      "candidateVotes": 3326,
+      "cityVotes": 3326,
+      "classificationCoverage": 100.0,
+      "validNeighborhoodDenominators": true
+    },
+    {
+      "year": 2018,
+      "municipalities": 295,
+      "sections": 1000,
+      "candidateVotes": 32512,
+      "cityVotes": 13198,
+      "classificationCoverage": 100.0,
+      "validNeighborhoodDenominators": false
+    },
+    {
+      "year": 2022,
+      "municipalities": 295,
+      "sections": 1102,
+      "candidateVotes": 86568,
+      "cityVotes": 23914,
+      "classificationCoverage": 99.58601655933762,
+      "validNeighborhoodDenominators": true
+    },
+    {
+      "year": 2026,
+      "municipalities": 295,
+      "sections": 1207,
+      "candidateVotes": 40327,
+      "cityVotes": 18267,
+      "classificationCoverage": 98.72447583073301,
+      "validNeighborhoodDenominators": true
+    }
+  ]
+}
