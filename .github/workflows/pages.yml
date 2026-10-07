@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v6
       - name: Verificar JavaScript
         run: node --check dist/app.js
+      - name: Verificar navegação e filtros
+        run: node tests/navigation.cjs
       - name: Conferir bases eleitorais
         run: python3 scripts/validate.py
       - uses: actions/configure-pages@v5
