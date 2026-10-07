@@ -2,6 +2,12 @@
 
 Dashboard em português, responsivo, com cinco candidaturas oficiais (2012, 2016, 2018, 2022 e 2026), mapas municipais, votação por bairro do local de votação em Florianópolis, comparações e cenários condicionais.
 
+## Acesso público
+
+[Abra o dashboard](https://bernardo30001.github.io/bruno-souza-eleicoes/). O site não exige login.
+
+A publicação no GitHub Pages é atualizada automaticamente a cada envio para `main`, após a validação das bases e do JavaScript. A pasta publicada é `dist/`.
+
 ## Abrir
 
 Abra `dist/index.html` no navegador. Os dados, a geometria e os scripts são locais; não é preciso instalar bibliotecas ou configurar chaves. Também é possível servir `dist/` com qualquer servidor estático.
